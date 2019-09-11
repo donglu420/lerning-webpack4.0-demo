@@ -1,4 +1,4 @@
-# lerning-webpack4.0-demo
+# learning-webpack4.0-demo
 学习webpack4.0的笔记心得和一些小demo源码
 ## webpack安装
 	- 安装本地的webpack
